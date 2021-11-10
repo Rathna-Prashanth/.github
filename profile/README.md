@@ -17,3 +17,9 @@ Detail-oriented and experienced Automation Test Engineer with a stellar record o
  - [Selenium Azure Pipeline](https://rathnaprashanth.com/azure-devops-with-selenium-test-suite-integration/)
  - [On-Premises Device Pool](https://rathnaprashanth.com/on-premises-device-pool-through-appium-grid/)
  - [Distributed Performance Testing](https://rathnaprashanth.com/distributed-performance-testing/)
+
+##
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rathnaprashanth.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathna-prashanth-2b987b189/)
+
