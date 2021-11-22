@@ -1,7 +1,7 @@
 
 ![Logo](https://rathnaprashanthcom.files.wordpress.com/2021/08/cropped-rp-logo-v2-modified.png?resize=214%2C214)
 
-![Logo](https://rathnaprashanthcom.files.wordpress.com/2021/10/mybadges-horizontal.png?resize=2214%2C214)
+![Logo](https://rathnaprashanthcom.files.wordpress.com/2021/11/mybadges-horizontal-1.png)
 
 
 
